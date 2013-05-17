@@ -97,7 +97,7 @@ class insertar_usuario
 		$ejecutar=mysql_query($sql,conectar::conexion());
 		
 		echo "<script type=text/javascript>
- 			alert('Usuario agregado ya puede empesar a usar su cuenta');
+ 			alert('Usuario agregado ya puede usar su cuenta');
  			window.location='index.php';
 
 		</script>"	;
