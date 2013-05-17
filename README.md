@@ -1,6 +1,5 @@
-proyectos_de_edward
+Login php
 ===================
 
-Login de usuarios edward3108
-Hola este es un proyecto para login
+Este es un login de usuarios hecho en php. Aqui el usuario puede loguearse y tambien registrarse.
 
